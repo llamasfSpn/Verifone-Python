@@ -1,4 +1,4 @@
-# CashDro-Python
+# Verifone-Python
 Communicate with PinPad Verifone Vx820 or similar.
 
 License: GNU General Public License V3.
@@ -16,7 +16,7 @@ Configuration
 
 Please read the official documentation of Verifone. 
 
-Please contact with Verifone. 
+Please contact with Verifone for comunication detail to PinPad. 
 
 Bug Tracker
 ===========
